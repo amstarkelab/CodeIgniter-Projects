@@ -18,6 +18,7 @@
     <link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/custom.css">
     <link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/menu.css">
     <link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/chat.css">
+    <link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/footer.css">
 
 
 
