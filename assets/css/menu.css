@@ -1,0 +1,29 @@
+body {
+    margin:0px 0px;
+}
+.navbar-default .navbar-nav > li.dropdown:hover > a, 
+.navbar-default .navbar-nav > li.dropdown:hover > a:hover,
+.navbar-default .navbar-nav > li.dropdown:hover > a:focus {
+    background-color: rgb(231, 231, 231);
+    color: rgb(11, 50, 86);
+}
+li.dropdown:hover > .dropdown-menu {
+    display: block;
+    border-radius: 2px;
+    background: #ffffff;
+    width: 60px;
+    border-radius: 5px;
+}
+
+nav.shrink {
+	background-color: rgba(0,0,0, 0.5);
+	height: 60px;
+	padding-top: 0px;
+}
+
+nav.shrink>li>a{
+	color: @green;
+	font-size: 16px;
+	font-family: @heading-text;
+	padding-top: 30px;
+}

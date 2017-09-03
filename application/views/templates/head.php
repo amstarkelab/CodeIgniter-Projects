@@ -11,14 +11,14 @@
     <meta name="description" content="Free Bootstrap Theme by BootstrapMade.com">
     <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
 
-
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
-    
     <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/bootstrap-theme.css">
     <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/bootstrap-dropdownhover.css">
     <link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/animate.css">
     <link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/custom.css">
+    <link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/menu.css">
+    <link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/chat.css">
+
 
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->

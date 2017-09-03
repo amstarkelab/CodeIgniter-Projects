@@ -8,7 +8,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">AMSTARKE</a>
+          <a class="navbar-brand" href="#">AMSTARKE LAB</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -16,7 +16,7 @@
           <ul class="nav navbar-nav navbar-right">
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Home</a>
-              <ul class="dropdown-menu">
+              <ul class="dropdown-menu animated">
                 <li><a href="#">Action</a></li>
                 <li class="divider"></li>
                 <li><a href="#">Another action</a></li>

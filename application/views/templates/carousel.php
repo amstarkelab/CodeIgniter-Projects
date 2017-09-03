@@ -1,3 +1,4 @@
+<div class="container">
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -6,16 +7,22 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="..." alt="First slide">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="..." alt="Second slide">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="..." alt="Third slide">
+      <img class="d-block w-100 img-fluid" src="<?php echo base_url(); ?>assets/img/carousel/1.jpg" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
-        <h3>...</h3>
-        <p>...</p>
+        <h3>Timely Translation</h3>
+        <p>We are time conscious in our translation business</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100 img-fluid" src="<?php echo base_url(); ?>assets/img/carousel/2.jpeg" alt="Second slide">
+       <h3>App Translation</h3>
+        <p>Translate your App with us</p>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100 img-fluid" src="<?php echo base_url(); ?>assets/img/carousel/4.png" alt="Third slide">
+      <div class="carousel-caption d-none d-md-block">
+        <h3>Audio Translation</h3>
+        <p>We Translate audio material for you too</p>
       </div>
     </div>
   </div>
@@ -28,3 +35,7 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+</div>
+
+</div> <!--end of banner class found at the beginning of menu.php-->
