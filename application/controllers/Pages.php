@@ -6,9 +6,10 @@ class Pages extends MY_Controller{
 
 		$data['title'] = "Home";
 		$this->load->view('templates/head', $data);
-		$this->load->view('templates/menu');
+		$this->load->view('templates/navbar');
 		$this->load->view('templates/carousel');
 		$this->load->view('home');
+		$this->load->view('templates/clients');
 		$this->load->view('templates/footer');
 	}
 
@@ -16,7 +17,7 @@ class Pages extends MY_Controller{
 
 		$data['title'] = "contact";
 		$this->load->view('templates/head', $data);
-		$this->load->view('templates/menu');
+		$this->load->view('templates/navbar');
 		$this->load->view('pages/contact');
 		$this->load->view('templates/footer');
 	}
@@ -24,7 +25,7 @@ class Pages extends MY_Controller{
 
 		$data['title'] = "About";
 		$this->load->view('templates/head', $data);
-		$this->load->view('templates/menu');
+		$this->load->view('templates/navbar');
 		$this->load->view('pages/about');
 		$this->load->view('templates/footer');
 	}
@@ -33,7 +34,7 @@ class Pages extends MY_Controller{
 
 		$data['title'] = "| Login";
 		$this->load->view('templates/head', $data);
-		$this->load->view('templates/menu');
+		$this->load->view('templates/navbar');
 		$this->load->view('pages/login');
 		$this->load->view('templates/footer');
 	}

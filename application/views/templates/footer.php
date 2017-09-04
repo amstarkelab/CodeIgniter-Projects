@@ -56,9 +56,10 @@
         </div>
         <div class="social-networks">
             <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
-            <a href="#" class="facebook"><i class="fa fa-facebook-official"></i></a>
+            <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
             <a href="#" class="google"><i class="fa fa-google-plus"></i></a>
         </div>
+        <button type="button" class="btn btn-info" style="float: right"><a href="#up"><span class="glyphicon glyphicon-chevron-up"></span></a></button>
         <div class="footer-copyright">
             <p>&copy 2017 All Rights Reserved | Powered by OmniText Translation</p>
         </div>
@@ -91,10 +92,7 @@
 -->
 		<script src="/Trans/assets/js/jquery-3.2.1.js"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-	    <script src="/Trans/assets/js/jquery.min.js"></script>
 	    <script src="/Trans/assets/js/bootstrap.min.js"></script>
-	    <script src="/Trans/assets/js/jquery.flexslider.js"></script>
-	    <script src="/Trans/assets/js/jquery.inview.js"></script>
 	    <script src="https://maps.google.com/maps/api/js?sensor=true"></script>
 	    <script src="/Trans/assets/js/script.js"></script>
 	    <script src="/Trans/assets/js/custom.nav.js"></script>
