@@ -3,16 +3,24 @@ body {
 }
 .navbar-default .navbar-nav > li.dropdown:hover > a, 
 .navbar-default .navbar-nav > li.dropdown:hover > a:hover,
-.navbar-default .navbar-nav > li.dropdown:hover > a:focus {
+.navbar-default .navbar-nav > li.dropdown:hover > a:focus, 
+.navbar-default .navbar-nav > li:hover {
     background-color: rgb(231, 231, 231);
     color: rgb(11, 50, 86);
 }
 li.dropdown:hover > .dropdown-menu {
     display: block;
-    border-radius: 2px;
-    background: #ffffff;
-    width: 60px;
     border-radius: 5px;
+    background: #ffffff;
+    width: 10px;
+    overflow: auto;
+    border-width: 1px;
+    border-color: #000000;
+}
+
+li.dropdown:hover > .dropdown-menu > li > a:hover{
+	background-color: rgb(231, 231, 231);
+    color: rgb(11, 50, 86);
 }
 
 nav.shrink {

@@ -49,7 +49,7 @@
         </li>
         <li><a href="#"><span class="glyphicon glyphicon-phone-alt"> </span> Contact</a></li>
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class=""></span> Language(EN) <span class="glyphicon glyphicon-chevron-down"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class=""></span><img style="height:20px; width:20px" src="/Trans/assets/img/lang/us.png">(EN) <span class="glyphicon glyphicon-chevron-down"></span></a>
           <ul class="dropdown-menu">
             <li><a href="#"><img style="height:20px; width:20px" src="/Trans/assets/img/lang/us.png"> English</a></li>
             <li class="divider"></li>
@@ -62,6 +62,7 @@
             <li><a href="#"><img style="height:20px; width:20px" src="/Trans/assets/img/lang/es.png"> Espanol</a></li>
           </ul>
         </li>
+        <li><a href="#"><span class="glyphicon glyphicon-lock"></span></a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
 </nav>

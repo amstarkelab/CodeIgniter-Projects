@@ -99,6 +99,7 @@
 	    <script src="/Trans/assets/js/script.js"></script>
 	    <script src="/Trans/assets/js/custom.nav.js"></script>
 	    <script src="/Trans/assets/js/menu.js"></script>
+	    <script src="/Trans/assets/js/footer.js" type="text/javascript"></script>
 	    <!-- Bootstrap Dropdown Hover JS -->
 	    <script src="/Trans/assets/bootstrapjs/bootstrap-dropdownhover.min.js"></script>
 </div>
